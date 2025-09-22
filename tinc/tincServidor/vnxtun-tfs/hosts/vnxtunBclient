@@ -1,0 +1,11 @@
+Address = vnxtunBclient
+Subnet = 10.11.14.3/32
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAzr5ZjlHGZqkU2lkroCzyJqghvjly16F8SRuQbogud1CtifF9Spoa
+37Mx/0Gst3a+AVJDBgNPUZjrG5GylwnkaaVxSC8mg2uiDchs4W0xvPyk+I6HX4VO
+wOy6xW0ntTzxhfZFYPRp1NofI65lY5Onnyy+FpdcmbEa/2/ypgN1CG6HzwUtsP2N
+YKYQsh6/q8rblXLNQVZfLJ9GmcoMNRXJ0JjYUwdZDAZFmDOTGNBEGaNm3gywSe97
+UgWjOYVw+sdr49aZ4JzHOdpRQc5mNHJtw2+eRzLrVHJroBEexHE1nzySGVK6xxuH
+z/wqp7e1RYUR//yaAWbXs/qUOgqU66+yQwIDAQAB
+-----END RSA PUBLIC KEY-----

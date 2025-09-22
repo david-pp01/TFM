@@ -1,0 +1,2 @@
+#!/bin/sh
+ifconfig $INTERFACE 10.11.14.1/24 mtu 1370
